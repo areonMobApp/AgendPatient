@@ -1,3 +1,3 @@
 ### Welcome to Agend patient app page
 
-_Download_
+<a class="install" href="../../apk/Dev/universal.apk">Install</a>
